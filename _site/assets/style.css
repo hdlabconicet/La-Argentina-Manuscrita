@@ -99,14 +99,14 @@ code {
   border-left: 8px solid #D7D5D1;
   font-style: italic; }
   .prose blockquote p {
-    font-size: 22px; }
+    font-size: 16px; }
   @media (min-width: 52em) {
     .prose blockquote {
       padding-left: 32px;
       margin: 64px 0 64px -40px;
       max-width: 110%; }
       .prose blockquote p {
-        font-size: 32px; } }
+        font-size: 22px; } }
 .prose hr {
   color: #2B2826;
   border-style: solid;
@@ -303,6 +303,27 @@ code {
 
 .right {
   float: right; }
+
+.column {
+  float: left;
+  width: 50%; }
+
+.col-left {
+  float: left;
+  width: 50%; }
+
+.col-right {
+  float: right;
+  width: 50%; }
+
+/* Clear floats after the columns */
+.row {
+  max-width: 70em; }
+
+/* Search Highlighting */
+mark {
+  color: white;
+  background-color: #841212; }
 
 @media (min-width: 52em) {
   .right-lg {

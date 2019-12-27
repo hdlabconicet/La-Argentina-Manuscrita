@@ -89,6 +89,7 @@
   .sm-width-full { width: 100% !important; }
 }
 
+
 .block        { display: block !important; }
 .inline-block { display: inline-block !important; }
 
@@ -103,6 +104,41 @@
 
 .left { float: left; }
 .right { float: right; }
+
+
+
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.col-left {
+  float: left;
+  width: 50%;
+}
+.col-right {
+  float: right;
+  width: 50%;
+}
+/* Clear floats after the columns */
+.row {
+  max-width: 70em ;
+}
+
+//:after {
+//  content: "";
+//  display: table;
+//  clear: both;
+//}
+
+
+/* Search Highlighting */
+
+mark {
+    color: white;
+    background-color: #841212;
+}
 
 
 // Responsive layout
