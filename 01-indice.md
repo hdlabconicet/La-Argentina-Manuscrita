@@ -12,7 +12,7 @@ type: extras
 <ul class="idx">
 {% for page in site.argentina_manuscrita_pages %}
 	{% if page.section == "Paratextos" %}
-		<li class="idx"><a href="{{ page.url }}">{{ page.subtitle }}</a> | </li>
+		<li class="idx"><a href="{{ site.baseurl }}/argentina_manuscrita_pages/{{page.img}}">{{ page.subtitle }}</a> | </li>
 	{% endif %}
 {% endfor %}
 </ul>
@@ -22,7 +22,7 @@ type: extras
 <ul class="idx">
 {% for page in site.argentina_manuscrita_pages %}
 	{% if page.section == "Libro I" %}
-	<li class="idx"><a href="{{ page.url }}">{{ page.subtitle }}</a> | </li>
+	<li class="idx"><a href="{{ site.baseurl }}/argentina_manuscrita_pages/{{page.img}}">{{ page.subtitle }}</a> | </li>
 	{% endif %}
 {% endfor %}
 </ul>
@@ -32,7 +32,7 @@ type: extras
 <ul class="idx">
   {% for page in site.argentina_manuscrita_pages %}
   	{% if page.section == "Libro II" %}
-	    <li class="idx"> <a href="{{ page.url }}">{{ page.subtitle }}</a> | </li>
+	    <li class="idx"> <a href="{{ site.baseurl }}/argentina_manuscrita_pages/{{page.img}}">{{ page.subtitle }}</a> | </li>
 	{% endif %}
   {% endfor %}
 </ul>
@@ -43,7 +43,7 @@ type: extras
 <ul class="idx">
   {% for page in site.argentina_manuscrita_pages %}
   	{% if page.section == "Libro III" %}
-	    <li class="idx"> <a href="{{ page.url }}">{{ page.subtitle }}</a> | </li>
+	    <li class="idx"> <a href="{{ site.baseurl }}/argentina_manuscrita_pages/{{page.img}}">{{ page.subtitle }}</a> | </li>
 	{% endif %}
   {% endfor %}
 </ul>
