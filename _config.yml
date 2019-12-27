@@ -1,0 +1,20 @@
+title: La Argentina Manuscrita
+description: Descripcion breve del sitio
+baseurl: "/textosymapas" # the subpath of your site, e.g. /blog
+url: "http://hdlab.space/" # the base hostname & protocol for your site
+github_repo: Textos-y-Mapas # the GitHub repo name for your project
+twitter_username: HDCAICYT
+github_username:  hdcaicyt
+facebook_username: HDCAICYTLAB
+
+social_link: twitter
+social_username: hdcaicyt
+
+theme_color: light
+
+# Build settings
+markdown: kramdown
+
+collections:
+    argentina_manuscrita_pages:
+      output: true
