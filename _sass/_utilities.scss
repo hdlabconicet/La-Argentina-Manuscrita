@@ -71,6 +71,11 @@
 
 /* Layout utilities */
 .container { max-width: $container-width; }
+.text-container { 
+  max-width: $text-container-width;
+  display: flex;
+}
+
 
 .col-1 { width: (1 / 12 * 100%); }
 .col-2 { width: (2 / 12 * 100%); }
@@ -107,20 +112,19 @@
 
 
 
-
-.column {
-  float: left;
-  width: 50%;
-}
-
 .col-left {
   float: left;
-  width: 50%;
+  width: 60%;
 }
+
 .col-right {
   float: right;
-  width: 50%;
+  width: 40%;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 40px;
 }
+
 /* Clear floats after the columns */
 .row {
   max-width: 70em ;

@@ -3,6 +3,7 @@ layout: page
 title: Pueblos originarios
 permalink: /argentina-manuscrita-pueblos-originarios/
 type: extras
+description: Más información sobre los pueblos originarios mencionados en el texto
 ---
 
 ## Pueblos originarios

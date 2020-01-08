@@ -3,6 +3,7 @@ layout: page
 title: Nombres destacados
 permalink: /argentina-manuscrita-nombres/
 type: extras
+description: Más información sobre los personajes destacados del texto
 ---
 
 ## Índice de nombres

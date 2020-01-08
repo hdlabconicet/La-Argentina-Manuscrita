@@ -18,3 +18,5 @@ markdown: kramdown
 collections:
     argentina_manuscrita_pages:
       output: true
+    recursos:
+      output: true
