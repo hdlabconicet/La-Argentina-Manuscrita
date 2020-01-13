@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pelagios al Sur
-permalink: /argentina-manuscrita-proyecto/
+title: Proyectos
+permalink: /argentina-manuscrita-proyectos/
 type: extras
 ---
 

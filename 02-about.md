@@ -1,13 +1,13 @@
 ---
 layout: page
-title: La edición
-permalink: /argentina-manuscrita-about/
+title: Acerca de
+permalink: /argentina-manuscrita-acerca-de/
 type: extras
 ---
 
 ## Acerca de esta edición digital
 
-Crónica mestiza en cuantas formas puedan pensarse, la _Historia de la conquista del Río de la Plata_ (o la _Argentina manuscrita_, como suele conocérsela más habitualmente) fue producto de un brutal choque de mundos: el de la expansión ultramarina de la España temprano-moderna y aquel de las sociedades cultivadoras guaraníes del Río de la Plata. Su autor, Ruy Díaz de Guzmán (c. 1559-1629), concentró en su genealogía las grandes líneas de conflicto presentes en la temprana historia colonial de la región: era nieto de una india caria de las cercanías de la ciudad de Asunción y del hombre fuerte de la región, Domingo de Irala, pero también pariente de su rival, Álvar Núñez Cabeza de Vaca.
+Crónica mestiza en cuantas formas puedan pensarse, la Historia de la conquista del Río de la Plata (o la Argentina manuscrita, como suele conocérsela más habitualmente) fue producto de un brutal choque de mundos: el de la expansión ultramarina de la España temprano-moderna y aquel de las sociedades cultivadoras guaraníes del Río de la Plata. Su autor, Ruy Díaz de Guzmán (c. 1559-1629), concentró en su genealogía las grandes líneas de conflicto presentes en la temprana historia colonial de la región: era nieto de una india caria de las cercanías de la ciudad de Asunción y del hombre fuerte de la región, Domingo de Irala, pero también pariente de su rival, Álvar Núñez Cabeza de Vaca.
 
 ![relaciones]({{site.baseurl}}/assets/img/argentina_manuscrita/relaciones_LAM.png)
 
