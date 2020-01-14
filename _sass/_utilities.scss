@@ -70,7 +70,7 @@
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
 
 /* Layout utilities */
-.container { max-width: $container-width; }
+.container { max-width: $text-container-width; }
 .text-container { 
   max-width: $text-container-width;
   display: flex;
