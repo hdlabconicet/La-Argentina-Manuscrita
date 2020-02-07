@@ -19,3 +19,5 @@ collections:
       output: true
     recursos:
       output: true
+    nombres_destacados:
+      output: true
