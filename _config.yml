@@ -21,3 +21,5 @@ collections:
       output: true
     nombres_destacados:
       output: true
+    pueblos_originarios:
+      output: true
