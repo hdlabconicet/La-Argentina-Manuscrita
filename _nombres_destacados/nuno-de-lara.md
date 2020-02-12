@@ -1,6 +1,6 @@
 ---
 nombre: Nuño de Lara
-fechas:
+fechas: 
 posicion: Capitán
 img:
 lnk: nuno-de-lara

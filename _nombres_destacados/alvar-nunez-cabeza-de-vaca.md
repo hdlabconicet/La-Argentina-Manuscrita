@@ -2,7 +2,7 @@
 nombre: Álvar Núñez Cabeza de Vaca
 fechas: Jeréz de la Frontera, 1488 - Sevilla, 27 de mayo de 1559
 posicion: Descubridor y conquistador
-img: https://upload.wikimedia.org/wikipedia/commons/2/2c/Cabeza_de_Vaca_Portrait.jpg
+img: ../assets/img/Cabeza_de_Vaca_Portrait.jpg
 lnk: alvar-nunez-cabeza-de-vaca
 ---
 
