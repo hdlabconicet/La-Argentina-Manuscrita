@@ -1,5 +1,5 @@
 ---
-nombre: Nuflo de Chaves
+nombre: Ñuflo de Chaves
 fechas: Cáceres de la Extremadura, 1518 - Santa Cruz de la Sierra, 1568
 posicion: Explorador y conquistador
 img: ../assets/img/Ñuflo_de_Chaves.jpg
