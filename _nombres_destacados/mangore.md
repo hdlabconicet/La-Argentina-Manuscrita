@@ -3,6 +3,7 @@ nombre: Mangoré
 fechas: Personaje ficticio
 posicion: Cacique
 img: ../assets/img/monumento_indio.jpg
+fuente: Wikimedia Commons
 lnk: mangore
 ---
 

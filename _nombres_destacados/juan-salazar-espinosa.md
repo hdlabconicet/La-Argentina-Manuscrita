@@ -2,7 +2,7 @@
 nombre: Juan de Salazar de Espinosa
 fechas: 1508-1560
 posicion: Regidor y tesorero
-img: ../assets/img/Juan_De_Salazar.jpg
+img: ../assets/img/Juan_de_Salazar.jpg
 lnk: juan-salazar-espinosa
 ---
 
