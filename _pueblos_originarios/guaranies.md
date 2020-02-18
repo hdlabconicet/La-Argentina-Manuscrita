@@ -10,4 +10,4 @@ lnk: guaranies
 
 <p>El muy difundido nombre guaraní lo escucharon los españoles que, al invadir su territorio, habrían oído, entre los gritos de guerra de este pueblo, la frase <i>guará-ny</i>, que significa &quot;combatir-los&quot;. Guaraní significa &quot;guerrero&quot;, <i>ava</i> que significa &quot;hombre&quot; y se pronuncia con acento grave entre los chiriguanos (ava guaraníes). Otra versión afirma que la denominación fue tomada de la deformación de una palabra del idioma guaraní, <i>guariní</i> que significa precisamente &quot;guerra&quot; o &quot;guerrear&quot;. Al parecer los mismos indígenas se denominaron de esa manera, indicando con ello que se consideraban guerreros.</p>
 
-<span>Imagen: <a href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Parag.696.Guaran%C3%AD_mail.jpeg" target="blank_">Wikimedia Commons</a></span>
+<span>Imagen: <a href="https://gallica.bnf.fr/ark:/12148/btv1b85530100/f131.item" target="blank_">BNF</a></span>
