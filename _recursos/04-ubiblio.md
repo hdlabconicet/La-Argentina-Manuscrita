@@ -206,5 +206,19 @@ published: false
 
 > (N.d.-b). Retrieved September 20, 2017, from http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Historia%20de%20la%20educacio%CC%81n%20popular_interactivo_0.pdf
 
+### Mapas
+
+> https://upload.wikimedia.org/wikipedia/commons/2/2b/Guatat%C3%A1.png
+> https://upload.wikimedia.org/wikipedia/commons/b/ba/Mapa_de_los_Indigenas_del_Paraguay.png
+> https://upload.wikimedia.org/wikipedia/commons/7/71/Plata_Americae_Provincia_Louvain_1597.jpg
+> http://www.portalguarani.com/userfiles/images/Vicente%20Pistilli/Primera%20Asunci%C3%B3n/vicente%20pistilli%20ayolas%20llego%20al%20mismo%20lugar%20que%20garcia.jpg
+> https://upload.wikimedia.org/wikipedia/commons/9/93/Paraguay_-_O_Prov_de_Rio_de_la_Plata_-_cum_regionibus_adiacentibus_Tvcvman_et_Sta._Cruz_de_la_Sierra_-_ca_1600.jpg
+> https://upload.wikimedia.org/wikipedia/commons/0/08/A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png
+> https://upload.wikimedia.org/wikipedia/commons/4/42/Patagonian_lang.png
+> https://gallica.bnf.fr/ark:/12148/btv1b2300008w/f122.item.zoom
+> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~282896~90054401:Paraqvaria-Vulgo-Paragvay?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No#
+> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~295231~90066318:Le-Paraguay?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No#
+> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~305111~90075536:Sudlichster-theil-von-America-1850?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No
+
 
 <!-- groups/1669951/hdcaicyt-pelagios_al_sur -->

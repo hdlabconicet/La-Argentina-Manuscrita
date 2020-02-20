@@ -1,6 +1,6 @@
 ---
-nombre: Guaycurues
-fechas: Guaycurús
+nombre: Guaycurúes
+fechas: Guaycurús, Guaicurúes
 posicion: 
 img: ../assets/img/guaycurus.jpg
 lnk: guaycurues
