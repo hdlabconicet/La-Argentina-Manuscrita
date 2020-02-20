@@ -14,7 +14,7 @@ description: Mapa y lista de pueblos originarios mencionados en el texto
 
 <script>
   // create the map object and set the cooridnates of the initial view:
-  var map = L.map('map').setView([-30.5811123, -58.4287612], 5);
+  var map = L.map('map').setView([-26.5811123, -58.4287612], 5);
 
   // create the tile layer with correct attribution:
   L.tileLayer('http://{s}.tiles.mapbox.com/v3/jamesg87.goac2bf1/{z}/{x}/{y}.png', {
@@ -31,8 +31,20 @@ description: Mapa y lista de pueblos originarios mencionados en el texto
   var marker = L.marker([-25.22, -57.56]).addTo(map);
   marker.bindPopup("<b>Carios</b><br>Parcialidad guaraní en las proximidades de la ciudad de Asunción. Es frecuente que se utilice su nombre para denominar a todos los guaraníes.");
 
+  var marker = L.marker([-32.27, -65.08]).addTo(map);
+  marker.bindPopup("<b>Comechingones</b><br>Ruy Díaz se refiere como Comechingones a los Henia y los Kamiare, cazadores-recoletores de las sierras de Córdoba y San Luis.");
+
   var marker = L.marker([-34.07, -55.69]).addTo(map);
   marker.bindPopup("<b>Charrúas</b><br>Tribu feroz e indómita, en continua guerra con los Arachanes. Fueron perseguidos y exterminados por el General don Fructuoso Rivera en 1831.");
+
+  var marker = L.marker([-17.69, -57.73]).addTo(map);
+  marker.bindPopup("<b>Jarayes</b><br>Habitualmente referidos en las fuentes coloniales como Xarajes o Xarayes. Hoy son conocidos como Guató. Habitaban el Gran Pantanal, 60 leguas arriba de la isla de los Orejones sobre el río Paraguay. Gente muy dócil, se divide en Perabazanes y Maneses.");
+
+  var marker = L.marker([-25.65, -58.92]).addTo(map);
+  marker.bindPopup("<b>Qom</b><br>Referidos en el textos como Frentones, también conocidos como Tobas.");
+
+  var marker = L.marker([-35.13, -58.67]).addTo(map);
+  marker.bindPopup("<b>Querandíes</b><br>En el texto, referidos como Querandís. Se mantenían aprovechando los recursos faunísticos, vegetales y líticos de estos territorios, utilizando modelos de explotación del medio muy flexibles.");
 
   var marker = L.marker([-27.79, -64.27]).addTo(map);
   marker.bindPopup("<b>Tonocotes</b><br>Tonocotes y juríes constituirían la misma etnia, nativa de la región centro-norte de Argentina. Los Tonocotés habitaban en lo que hoy es territorio de la provincia de Santiago del Estero y constituían jefaturas con características próximas a las del área andina.");
