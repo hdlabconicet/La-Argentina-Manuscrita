@@ -8,7 +8,9 @@ description: Mapa y lista de pueblos originarios mencionados en el texto
 
 <h2>Localización</h2>
 
-<p>En este mapa se puede visualizar la ubicación aproximada de algunos de los pueblos originarios mencionados en La Argentina Manuscrita de Ruy Díaz de Guzmán. Haga click sobre los marcadores para ver el nombre y una breve descripción de cada pueblo.</p>
+<p>En este mapa se puede visualizar la ubicación aproximada de algunos de los pueblos originarios mencionados en La Argentina Manuscrita de Ruy Díaz de Guzmán. La ubicación se basa en información del texto y en mapas de la época. De ser posible, también se indican referencias geográficas actuales.</p>
+
+<p>Haga click sobre los marcadores para ver el nombre y una breve descripción de cada pueblo. Por lo general, se utilizan las autodenominaciones de cada pueblo, acompañadas de otras denominaciones frecuentes y variantes ortográficas y de pronunciación. También se indica el nombre usado por Ruy Díaz en su texto.</p>
 
 <p>Para obtener información histórica y etnográfica más detallada, consulte la grilla que figura debajo del mapa.</p>
   
@@ -16,7 +18,7 @@ description: Mapa y lista de pueblos originarios mencionados en el texto
 
 <script>
   // create the map object and set the cooridnates of the initial view:
-  var map = L.map('map').setView([-26.5811123, -58.4287612], 5);
+  var map = L.map('map').setView([-23.5811123, -58.4287612], 4);
 
   // create the tile layer with correct attribution:
   L.tileLayer('http://{s}.tiles.mapbox.com/v3/jamesg87.goac2bf1/{z}/{x}/{y}.png', {
@@ -30,7 +32,10 @@ description: Mapa y lista de pueblos originarios mencionados en el texto
   var marker = L.marker([-25.28, -57.66]).addTo(map);
   marker.bindPopup("<b>Agases, Agaces o Agases</b><br>Pertenecían al tronco lingüístico mataco-guaycurú y eran muy hábiles canoeros y pescadores. Solían tener conflictos con los guaraníes carios que vivían río arriba.");
 
-var marker = L.marker([-28.62, -57.82]).addTo(map);
+  var marker = L.marker([-24.77, -55.70]).addTo(map);
+  marker.bindPopup("<b>Avá, Guaraníes, Guaranís</b><br><a href=\"#guaranies\">más información</a>");
+
+  var marker = L.marker([-28.62, -57.82]).addTo(map);
   marker.bindPopup("<b>Caracarás</b><br>Parcialidad Chaná-Timbú.");
 
   var marker = L.marker([-25.22, -57.56]).addTo(map);
@@ -40,16 +45,16 @@ var marker = L.marker([-20.70, -63.88]).addTo(map);
   marker.bindPopup("<b>Charcas</b><br>Refiere al pueblo charca, etnia que habitó la región del actual departamento de Chuquisaca, Bolivia. Desde fines del siglo XV fueron súbditos del Incanato. Regularmente sufrían incursiones de los avá guaraní, desde el actual Paraguay y al este, de los chiriguanos.");
 
   var marker = L.marker([-34.07, -55.69]).addTo(map);
-  marker.bindPopup("<b>Charrúas</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Charrúas</b><br><a href=\"#charruas\">más información</a>");
 
   var marker = L.marker([-30.99, -58.13]).addTo(map);
-  marker.bindPopup("<b>Chayos, yaros, yaroes, yaroses o jaros</b><br>Pueblo que, antes de su fusión dentro del complejo charrúa entre fines del siglo XVII y principios del siglo XVIII, habitaba en ambas márgenes del bajo río Uruguay en Argentina y Uruguay.");
+  marker.bindPopup("<b>Chayos, Yaros, Yaroes, Yaroses, Jaros</b><br>Pueblo que, antes de su fusión dentro del complejo charrúa entre fines del siglo XVII y principios del siglo XVIII, habitaba en ambas márgenes del bajo río Uruguay en Argentina y Uruguay.");
 
 var marker = L.marker([-25.96, -51.65]).addTo(map);
   marker.bindPopup("<b>Chiquis</b><br>Indígenas del Guayra. Tribu poco conocida, en las márgenes del Iguazú.");
 
   var marker = L.marker([-17.98, -58.45]).addTo(map);
-  marker.bindPopup("<b>Chiquitos</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Chiquitanos, Chiquitos</b><br>Ruy Díaz se refiere a ellos como Travasicosis.");
 
   var marker = L.marker([-21.88, -62.91]).addTo(map);
   marker.bindPopup("<b>Chiriguanos</b><br>Los chiriguanos componían la parcialidad más occidental de los guaraníes, asentados en actual territorio boliviano sobre los contrafuertes andinos. Ruy Díaz dirigió varias campañas en su contra.");
@@ -57,65 +62,80 @@ var marker = L.marker([-25.96, -51.65]).addTo(map);
 var marker = L.marker([-25.45, -52.29]).addTo(map);
   marker.bindPopup("<b>Chovas</b><br>Indígenas del Guayra, con similitudes en la lengua con los Pates. Poblaban las márgenes del río Iguazú, en parajes retirados.");
 
+  var marker = L.marker([-20.14, -65.08]).addTo(map);
+  marker.bindPopup("<b>Curumías</b><br>Podría tratarse de una parcialidad de los cutaguas, debido a las similitudes de ambos grupos en costumbres y lengua. Habitaban la parte alta de Xerez (Santiago de Jerez, actual Miranda), establecidos en los campos regados por el río Mbotetey (actual río Miranda).");
+
+  var marker = L.marker([-24.35, -57.74]).addTo(map);
+  marker.bindPopup("<b>Guaicurúes</b><br><a href=\"#guaicurues\">más información</a>");
+
+  var marker = L.marker([-19.19, -57.39]).addTo(map);
+  marker.bindPopup("<b>Guajarapos</b><br><a href=\"#guajarapos\">más información</a>");
+
+  var marker = L.marker([-22.71, -54.56]).addTo(map);
+  marker.bindPopup("<b>Gualachos</b><br><a href=\"#gualachos\">más información</a>");
+
+  var marker = L.marker([-17.49, -57.73]).addTo(map);
+  marker.bindPopup("<b>Guatós</b><br><a href=\"#guatos\">más información</a>");
+
   var marker = L.marker([-32.27, -65.08]).addTo(map);
-  marker.bindPopup("<b>Comechingones</b><br>Ruy Díaz se refiere como Comechingones a los Henia y los Kamiare, cazadores-recoletores de las sierras de Córdoba y San Luis.");
+  marker.bindPopup("<b>Henia, Kamiare, Comechingones</b><br>Ruy Díaz se refiere como Comechingones a los Henia y los Kamiare, cazadores-recoletores de las sierras de Córdoba y San Luis.");
 
-var marker = L.marker([-24.35, -57.74]).addTo(map);
-  marker.bindPopup("<b>Guaicurúes</b><br><a href=\"#mas-info\">más información</a>");
-
-var marker = L.marker([-19.19, -57.39]).addTo(map);
-  marker.bindPopup("<b>Guajarapos</b><br><a href=\"#mas-info\">más información</a>");
-
-var marker = L.marker([-22.71, -54.56]).addTo(map);
-  marker.bindPopup("<b>Gualachos</b><br><a href=\"#mas-info\">más información</a>");
-
-var marker = L.marker([-17.53, -52.35]).addTo(map);
-  marker.bindPopup("<b>Guatos</b><br><a href=\"#mas-info\">más información</a>");
-
-var marker = L.marker([-26.41, -64.89]).addTo(map);
+  var marker = L.marker([-26.41, -64.89]).addTo(map);
   marker.bindPopup("<b>Juríes</b><br>Juríes y tonocotes constituirían la misma etnia, nativa de la región centro-norte de Argentina. Los juríes habitaban la región de las yungas tucumanas y constituían jefaturas con características próximas a las del área andina.");
 
   var marker = L.marker([-17.69, -57.73]).addTo(map);
-  marker.bindPopup("<b>Jarayes</b><br>Habitualmente referidos en las fuentes coloniales como Xarajes o Xarayes. Habitaban el Gran Pantanal, 60 leguas arriba de la isla de los Orejones sobre el río Paraguay. Gente muy dócil, se divide en Perabazanes y Maneses.");
+  marker.bindPopup("<b>Jarayes</b><br>Habitualmente referidos en las fuentes coloniales como Xarajes o Xarayes. Habitaban el Gran Pantanal (la mítica <a href=\"https://upload.wikimedia.org/wikipedia/commons/9/93/Paraguay_-_O_Prov_de_Rio_de_la_Plata_-_cum_regionibus_adiacentibus_Tvcvman_et_Sta._Cruz_de_la_Sierra_-_ca_1600.jpg\" target=\"_blank\">Laguna de Xarajes</a>), según las fuentes coloniales, 60 leguas arriba de la isla de los Orejones sobre el río Paraguay. Se dividen en <a href=\"#perabazanes\">Perabazanes</a> y Maneses.");
 
 var marker = L.marker([-22.38, -62.15]).addTo(map);
-  marker.bindPopup("<b>Manjui</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Maijunas, Orejones</b><br><a href=\"#maijunas\">más información</a>");
+
+var marker = L.marker([-17.69, -58.00]).addTo(map);
+  marker.bindPopup("<b>Maneses</b><br>Parcialidad de los Xarajes-Guató. Habitan del lado de Santa Cruz.");
 
 var marker = L.marker([-21.30, -66.57]).addTo(map);
-  marker.bindPopup("<b>Olipes, Lipes</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Olipes, Lipes</b><br><a href=\"#olipes\">más información</a>");
 
 var marker = L.marker([-11.86, -56.07]).addTo(map);
-  marker.bindPopup("<b>Paperui</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Paperui</b><br><a href=\"#paperuis\">más información</a>");
 
 var marker = L.marker([-21.65, -58.08]).addTo(map);
-  marker.bindPopup("<b>Payaguás</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Payaguás</b><br><a href=\"#payaguas\">más información</a>");
+
+var marker = L.marker([-17.69, -57.43]).addTo(map);
+  marker.bindPopup("<b>Perabazanes</b><br><a href=\"#perabazanes\">más información</a>");
 
   var marker = L.marker([-25.65, -58.92]).addTo(map);
-  marker.bindPopup("<b>Qom</b><br>Referidos en el textos como Frentones, también conocidos como Tobas.");
+  marker.bindPopup("<b>Qom</b><br>Referidos en el texto como Frentones, también conocidos como Tobas.");
 
   var marker = L.marker([-35.13, -58.67]).addTo(map);
-  marker.bindPopup("<b>Querandíes</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Querandíes</b><br><a href=\"#querandies\">más información</a>");
 
 var marker = L.marker([-25.46, -57.50]).addTo(map);
-  marker.bindPopup("<b>Taberé</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Taberé</b><br><a href=\"#taberes\">más información</a>");
 
   var marker = L.marker([-30.77, -54.19]).addTo(map);
   marker.bindPopup("<b>Tapés</b><br>Parcialidad guaraní que habitaba en los territorios de lo que hoy constituye el estado brasileño de Río Grande Do Sul.");
 
-var marker = L.marker([-22.92, -44.58]).addTo(map);
-  marker.bindPopup("<b>Tamoios</b><br>Por tamoios o tamoyos se conocen a los indígenas que habitaban las costas de los actuales estados brasileños de San Pablo y Río de Janeiro. Pueden identificarse también con los tupí-nambá.");
+  var marker = L.marker([-22.92, -44.58]).addTo(map);
+  marker.bindPopup("<b>Tamoios</b><br><a href=\"#tamoios\">más información</a>");
 
-var marker = L.marker([-31.15, -60.20]).addTo(map);
-  marker.bindPopup("<b>Timbúes</b><br><a href=\"#mas-info\">más información</a>");
+  var marker = L.marker([-31.15, -60.20]).addTo(map);
+  marker.bindPopup("<b>Timbúes</b><br><a href=\"#timbus\">más información</a>");
+
+  var marker = L.marker([-5.16, -39.50]).addTo(map);
+  marker.bindPopup("<b>Tobayaras, Tobaiaras</b><br>");
 
   var marker = L.marker([-27.79, -64.27]).addTo(map);
   marker.bindPopup("<b>Tonocotes</b><br>Tonocotes y juríes constituirían la misma etnia, nativa de la región centro-norte de Argentina. Los Tonocotés habitaban en lo que hoy es territorio de la provincia de Santiago del Estero y constituían jefaturas con características próximas a las del área andina.");
 
+  var marker = L.marker([-12.84, -38.63]).addTo(map);
+  marker.bindPopup("<b>Tupinás</b><br>Habitantes originarios y feroces de la Bahía de Todos los Santos (Brasil), luego de expulsar a los Tapuyas.");
+
   var marker = L.marker([-22.80, -43.16]).addTo(map);
-  marker.bindPopup("<b>Tupís, Tupíes o Tupinambás</b><br>Parcialidad perteneciente al tronco lingüístico Tupí-Guaraní y que tenía uno de sus principales asentamientos en la Bahía de Guanabara.");
+  marker.bindPopup("<b>Tupís, Tupíes o Tupinambás</b><br><a href=\"#tupinambas\">más información</a>");
 
   var marker = L.marker([-23.70, -57.70]).addTo(map);
-  marker.bindPopup("<b>Yapirús</b><br><a href=\"#mas-info\">más información</a>");
+  marker.bindPopup("<b>Yapirús</b><br><a href=\"#yapirus\">más información</a>");
 
 </script>
 <br>

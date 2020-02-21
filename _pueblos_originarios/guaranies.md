@@ -1,6 +1,6 @@
 ---
-nombre: Guaraníes
-fechas: Avás o Guaranís
+nombre: Avá-Guaraníes
+fechas:  Avás, Guaraníes o Guaranís
 posicion: 
 img: ../assets/img/guaranies.jpeg
 lnk: guaranies
