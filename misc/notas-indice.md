@@ -257,7 +257,7 @@
 <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Actual Río Reconquista en la provincia de Buenos Aires">Río de las Conchas</button>
 <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere al río Paraná de las Palmas.">río de las Palmas</button>
 <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="En la actualidad conserva el mismo nombre, es un río que nace en los Andes y tras cruzar el chaco boliviano en dirección oeste-este, se une a los bañados de Izozog, un humedal del departamento boliviano de Santa Cruz de la Sierra.">río de Parapití</button>
-<button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere al río Carcarañá">río del Carcarañal</button>
+<button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere al río Carcarañá. Su nombre se debe a un cacique. El río Tercero de Córdoba toma este nombre, después de juntarse con el Saladillo. Confluente del Paraná; fue visitado por Gaboto, que fundó en sus orillas el fuerte de Sancti Espíritu.">río del Carcarañal</button>
 <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere al actual Río Dulce.">río Talcanco</button>
 <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Refiere al río Tarapaya en Potosí.">río Tarapaya</button>
 <button class="balloon" data-balloon-pos="up" data-balloon-length="large" data-balloon="Río que conserva el nombre en la actualidad, límite entre Argentina y Bolivia.">río Tarija</button>
