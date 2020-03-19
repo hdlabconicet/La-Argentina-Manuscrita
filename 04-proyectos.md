@@ -7,7 +7,7 @@ type: extras
 
 ## Proyecto de georreferenciación y anotación semántica
 
-Financiado por [Pelagios Commons](http://commons.pelagios.org/), el proyecto [Pelagios al Sur](http://commons.pelagios.org/2017/08/pelagios-commons-al-sur-extending-pelagios-to-the-south-of-the-american-continent-2/) extiende las herramientas de georreferenciación y anotación semántica de textos y mapas desarrolladas por el consorcio Pelagios Commons a otras fronteras espaciales y geográficas, más allá del mundo antiguo o medieval y de la geografía euro-asiática. A fines de interés de la comunidad académica argentina, este proyecto abordó textos del período XVI-XVII y la zona Río de la Plata.
+Financiado por [Pelagios Network](https://pelagios.org/), el proyecto Pelagios al Sur extiende las herramientas de georreferenciación y anotación semántica de textos y mapas desarrolladas por el consorcio Pelagios Commons a otras fronteras espaciales y geográficas, más allá del mundo antiguo o medieval y de la geografía euro-asiática. A fines de interés de la comunidad académica argentina, este proyecto abordó textos del período XVI-XVII y la zona Río de la Plata.
 
 ![pelagios logo]({{site.baseurl}}/assets/img/logo-pelagios.png)
 
