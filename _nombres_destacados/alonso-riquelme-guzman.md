@@ -5,4 +5,6 @@ posicion: Conquistador
 lnk: alonso-riquelme-guzman
 ---
 
-Alonso Riquelme de Guzmán (1519-1573) fue un conquistador oriundo de Jeréz de la Frontera y sobrino del Segundo Adelantado al Río de la Plata, Álvar Núñez Cabeza de Vaca, con quien llegó al Río de la Plata en 1541. Fue uno de sus más acérrimos partidarios durante la gobernación de Cabeza de Vaca y se convirtió en una de las figuras más prominentes de la facción de los &quot;leales&quot; una vez que aquel fuera expulsado de la provincia en 1545. Fue forzado por Domigo de Irala a casarse con una de sus hijas mestizas, unión de la cual nació Ruy Díaz de Guzmán.
+<p>Alonso Riquelme de Guzmán (1519-1573) fue un conquistador oriundo de Jeréz de la Frontera y sobrino del Segundo Adelantado al Río de la Plata, Álvar Núñez Cabeza de Vaca, con quien llegó al Río de la Plata en 1541. Fue uno de sus más acérrimos partidarios durante la gobernación de Cabeza de Vaca y se convirtió en una de las figuras más prominentes de la facción de los &quot;leales&quot; una vez que aquel fuera expulsado de la provincia en 1545. Fue forzado por Domigo de Irala a casarse con una de sus hijas mestizas, unión de la cual nació Ruy Díaz de Guzmán.</p>
+
+<span>Imagen: <a href="https://commons.wikimedia.org/wiki/File:Conquistador_Armor.jpg" target="blank_">Wikimedia Commons</a></span>

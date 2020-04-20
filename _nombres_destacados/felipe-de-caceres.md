@@ -6,4 +6,6 @@ img:
 lnk: felipe-de-caceres
 ---
 
-Contador y tesorero en la armada de Pedro de Mendoza y luego en la conquista del Río de la Plata. Uno de los líderes de la facción contraria Cabeza de Vaca, estuvo implicado en todas las maniobras que condujeron a su destitución, prisión y destierro.
+<p>Contador y tesorero en la armada de Pedro de Mendoza y luego en la conquista del Río de la Plata. Uno de los líderes de la facción contraria Cabeza de Vaca, estuvo implicado en todas las maniobras que condujeron a su destitución, prisión y destierro.</p>
+
+<span>Imagen: <a href="https://commons.wikimedia.org/wiki/File:Conquistador_Armor.jpg" target="blank_">Wikimedia Commons</a></span>
