@@ -6,11 +6,37 @@ type: extras
 published: false
 ---
 
-## Bibliografía
-
 <!-- <embed width="800" height="800" src="https://api.zotero.org/groups/1669951/items?format=bib&style=apa"> -->
 
-> ::: ARGENTINA HISTÓRICA - la historia argentina ::: (n.d.). Retrieved July 23, 2019, from http://www.argentinahistorica.com.ar/intro_libros.php?tema=6&doc=65&cap=164
+### Ediciones de La Argentina Manuscrita
+
+* Tieffenberg, S. (2012) [Argentina. Historia del Descubrimiento y Conquista del Río de la Plata de Ruy Díaz de Guzmán](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Argentina.%20Historia%20del%20Descubrimiento%20y%20Conquista%20del%20R%C3%ADo%20de%20la%20Plata%20de%20Ruy%20D%C3%ADaz%20de%20Guzm%C3%A1n_interactivo.pdf). Buenos Aires: Editorial de la Facultad de Filosofía y Letras 
+
+* Díaz de Guzmán, R. (2001) [Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/). Alicante: Biblioteca Virtual Miguel de Cervantes
+
+### Documentos históricos
+
+* [Actas de Cabildo de Santa Fe de la Vera Cruz](https://www.santafe.gob.ar/actascabildo/), República Argentina, período XVI a XIX.
+
+* Félix de Azara. (1847). [Descripcion é historia del Paraguay y del Rio de la Plata: Obra póstuma de con Félix de Azara](http://archive.org/details/descripcionhist03azargoog). Madrid: Imprenta de Sanchiz.
+
+
+### Textos críticos
+
+* Del Río, M. D. L. M., & Presta, A. M. (1984). [Un estudio etnohistórico en los corregimientos de Tomina y Yamparaes: casos de multietnicidad](http://revistascientificas.filo.uba.ar/index.php/runa/article/view/4442/3945). RUNA, archivo para las ciencias del hombre, 14.
+
+> Domingo, P. (2014). [Naissance d’une société métisse : Aspects socio-économiques du Paraguay de la Conquête à travers les dossiers testamentaires](http://books.openedition.org/pulm/518). Montpellier: Presses universitaires de la Méditerranée.
+
+* Gambetta, E. O. (2013) [La leyenda aborigen en el sistema rioplatense del siglo XIX](http://www.uba.ar/aihbuenosaires2013/actas/seccion6/La%20leyenda%20aborigen%20en%20el%20sistema%20rioplatense%20del%20siglo%20XIX_ORTIZ%20GAMBETTA,%20Eugenia/La%20leyenda%20aborigen_ORTIZ%20GAMBETTA,%20Eugenia.pdf). En Hispanismos del mundo: diálogos y debates en (y desde) el sur, 337-348.
+
+* Grünberg, F. and Friedl, G., 2014. [Guaraní: Persecución Y Resistencia. Pueblos Indígenas Del Centro De América Del Sur.](http://guarani.roguata.com/sites/default/files/text/file/uid110/grunberg-guarani2014.pdf) 1st ed. Quito: Ediciones Abya-Yala.
+
+* Tieffemberg, S. A. (2016). [¡Aquí no hay traidor ninguno!: Leales y comuneros en la Argentina de Ruy Díaz de Guzmán](https://ri.conicet.gov.ar/handle/11336/90944).
+
+> Quevedo, R., & Peñaranda, E. T. y F. de. (2005). [El baezano Gonzalo de Mendoza, fundador y gobernador de Asunción del Paraguay: ascendencia y descendencia](https://dialnet.unirioja.es/servlet/articulo?codigo=1983914). Boletín del Instituto de Estudios Giennenses, (192), 85–138.
+
+
+<!-- > ::: ARGENTINA HISTÓRICA - la historia argentina ::: (n.d.). Retrieved July 23, 2019, from http://www.argentinahistorica.com.ar/intro_libros.php?tema=6&doc=65&cap=164
 
 > 8cap5.pdf. (n.d.). Retrieved from http://biblioteca.clacso.edu.ar/clacso/otros/20120131110518/8cap5.pdf
 
@@ -24,8 +50,6 @@ published: false
 
 > 106000525.pdf. (n.d.). Retrieved from http://www.bibvirtual.ucb.edu.bo/etnias/digital/106000525.pdf
 
-> Actas de Cabildo de Santa Fe de la Vera Cruz, República Argentina, período XVI a XIX. (n.d.). Retrieved July 26, 2019, from https://www.santafe.gob.ar/actascabildo/default/lasactas
-
 > Almirante, J. (1869). Diccionario militar;etimológico, histórico, tecnológico, con dos vocabularios francés y aleman,. Madrid,. Retrieved from http://hdl.handle.net/2027/chi.085097278
 
 > analesdelabibli00arggoog.pdf. (n.d.). Retrieved from https://ia802707.us.archive.org/10/items/analesdelabibli00arggoog/analesdelabibli00arggoog.pdf
@@ -35,8 +59,6 @@ published: false
 > Andrés Lamas, V. F. L. (1877). Revista del Rio de la plata: Periódico mensual de historia y literatura de América. Mayo. Retrieved from http://archive.org/details/revistadelriode06gutigoog
 
 > Angelis, P. D. (1836). Coleccion de obras y documentos relativos á la historia antigua y moderna de las provincias del Rio de La Plata. Impr. del Estado.
-
-> Argentina. Historia del Descubrimiento y Conquista del Río de la Plata de Ruy Díaz de Guzmán_interactivo.pdf. (n.d.). Retrieved from http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Argentina.%20Historia%20del%20Descubrimiento%20y%20Conquista%20del%20R%C3%ADo%20de%20la%20Plata%20de%20Ruy%20D%C3%ADaz%20de%20Guzm%C3%A1n_interactivo.pdf
 
 > arquivo3270_1.pdf. (n.d.). Retrieved from http://repositorio.ufpe.br/bitstream/handle/123456789/7010/arquivo3270_1.pdf?sequence=1
 
@@ -66,13 +88,9 @@ published: false
 
 > Descripción e historia del Paraguay y del Río de la Plata / Félix de Azara - Biblioteca Virtual Miguel de Cervantes. (n.d.). Retrieved July 23, 2019, from http://www.cervantesvirtual.com/obra-visor/descripcion-e-historia-del-paraguay-y-del-rio-de-la-plata--0/html/ff6cca86-82b1-11df-acc7-002185ce6064_6.html
 
-> Díaz de Guzmán, R., & Tieffemberg, S. (2012). Argentina: historia del descubrimiento y conquista del Río de la Plata. Buenos Aires: Editorial de la Facultad de Filosofía y Letras, Universidad de Buenos AIres.
-
 > Digital Classicist: wip wip2015-02li. (n.d.). Retrieved January 18, 2018, from http://www.digitalclassicist.org/wip/wip2015-02li.html
 
 > documentosparala09buenuoft.pdf. (n.d.). Retrieved from https://ia800907.us.archive.org/8/items/documentosparala09buenuoft/documentosparala09buenuoft.pdf
-
-> Domingo, P. (2014). Naissance d’une société métisse : Aspects socio-économiques du Paraguay de la Conquête à travers les dossiers testamentaires. Montpellier: Presses universitaires de la Méditerranée. Retrieved from http://books.openedition.org/pulm/518
 
 > Ediciones Colihue - La Argentina manuscrita - Horacio González - 978-987-684-284-6. (n.d.). Retrieved January 16, 2019, from https://www.colihue.com.ar/fichaLibro?bookId=31632
 
@@ -86,21 +104,13 @@ published: false
 
 > Federico González Suárez / [Estudios y selecciones de Carlos Manuel Larrea] - Biblioteca Virtual Miguel de Cervantes. (n.d.). Retrieved August 30, 2019, from http://www.cervantesvirtual.com/obra-visor/federico-gonzalez-suarez--0/html/0009753e-82b2-11df-acc7-002185ce6064_1.html/marca/1918
 
-> Félix de Azara. (1847). Descripcion é historia del Paraguay y del Rio de la Plata: Obra póstuma de con Félix de Azara... Impr. de Sanchiz. Retrieved from http://archive.org/details/descripcionhist03azargoog
-
 > Félix de Azara- Descripción e historia del Paraguay y del Río de la Plata / Félix de Azara - Biblioteca Virtual Miguel de Cervantes. (n.d.). Retrieved January 21, 2019, from http://www.cervantesvirtual.com/obra-visor/descripcion-e-historia-del-paraguay-y-del-rio-de-la-plata--0/html/
 
 > Fracker, G. (1826). A voyage to South America, with an account of a shipwreck in the river La Plata, in the year 1817. Boston, Printed by Ingraham and Hewes. Retrieved from http://archive.org/details/voyagetosouthame00frac
 
-> Gambetta, O. (n.d.). La leyenda aborigen en el sistema rioplatense del siglo XIX, 12.
-
 > geografafsicaye00schugoog.pdf. (n.d.). Retrieved from https://ia800203.us.archive.org/18/items/geografafsicaye00schugoog/geografafsicaye00schugoog.pdf
 
 > Green, Aldo Gastón - Los indios Guaycurúes. Un aporte para su estudio.doc. (n.d.).
-
-> grunberg-guarani2014.pdf. (n.d.). Retrieved from http://guarani.roguata.com/sites/default/files/text/file/uid110/grunberg-guarani2014.pdf
-
-> Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata / escrita por Ruy Díaz de Guzmán, en el año de 1612 - Biblioteca Virtual Miguel de Cervantes. (n.d.). Retrieved September 5, 2017, from http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/ff57d7e8-82b1-11df-acc7-002185ce6064_16.html#I_68_
 
 > Historia comparada de las literaturas Argentina y Brasileña: De la colonia a la organización nacional. (2016). Eduvim.
 
@@ -115,8 +125,6 @@ published: false
 > Karaí Yamandú señor de las islas - Historia de Latinoamérica. (n.d.). Retrieved July 23, 2019, from http://historiadelatinoamerica.com/karai-yamandu-senor-de-las-islas/
 
 > La invención del desierto chaqueño. Una aproximación a las formas de apropiación simbólica de los territorios del Chaco en los tiempos de formación y consolidación del Estado nación Argentino. (n.d.). Retrieved January 21, 2019, from http://www.ub.edu/geocrit/sn-38.htm
-
-> La Revista de Buenos Aires. (n.d.). Buenos Aires Impr. de Mayo. Retrieved from http://archive.org/details/larevistadebueno13buenuoft
 
 > Lisi, F. L. (2008). El Tercer Concilio de Lima y su significación en la aculturación de las poblaciones indígenas de la América del Sur. Guaraguao, 12(28), 71–74. Retrieved from https://www.jstor.org/stable/25596636
 
@@ -158,8 +166,6 @@ published: false
 
 > Pueblos indígenas (1534-1554). (n.d.). Retrieved August 29, 2017, from http://indigenas.bioetica.org/base/base-a5.htm
 
-> Quevedo, R., & Peñaranda, E. T. y F. de. (2005). El baezano Gonzalo de Mendoza, fundador y gobernador de Asunción del Paraguay: ascendencia y descendencia. Boletín del Instituto de Estudios Giennenses, (192), 85–138. Retrieved from https://dialnet.unirioja.es/servlet/articulo?codigo=1983914
-
 > referencias historia argentina del descubrimeinto ruy diaz de guzman.docx. (n.d.).
 
 > relacion_viaje_al_rio_plata.pdf. (n.d.). Retrieved from https://www.folkloretradiciones.com.ar/literatura/relacion_viaje_al_rio_plata.pdf
@@ -167,12 +173,6 @@ published: false
 > Revista del Río de la Plata : periódico mensual de Historia y Literatura de América. Tomo VI, 1873 - Biblioteca Virtual Miguel de Cervantes. (n.d.). Retrieved July 29, 2019, from http://www.cervantesvirtual.com/obra-visor/revista-del-rio-de-la-plata-periodico-mensual-de-historia-y-literatura-de-america--15/html/
 
 > Revista LUTHOR. (n.d.). Retrieved January 18, 2018, from http://www.revistaluthor.com.ar/spip.php?article144
-
-> revista-buenos-aires_t13_1867.pdf. (n.d.-a). Retrieved from http://www.saij.gob.ar/docs-f/biblioteca_digital/libros/revista-buenos-aires_t13_1867/revista-buenos-aires_t13_1867.pdf
-
-> revista-buenos-aires_t13_1867.pdf. (n.d.-b). Retrieved from http://www.saij.gob.ar/docs-f/biblioteca_digital/libros/revista-buenos-aires_t13_1867/revista-buenos-aires_t13_1867.pdf
-
-> revista-buenos-aires_t13_1867.pdf. (n.d.-c). Retrieved from http://www.saij.gob.ar/docs-f/biblioteca_digital/libros/revista-buenos-aires_t13_1867/revista-buenos-aires_t13_1867.pdf
 
 > revistadelriode07gutigoog.pdf. (n.d.). Retrieved from https://ia800703.us.archive.org/15/items/revistadelriode07gutigoog/revistadelriode07gutigoog.pdf
 
@@ -190,36 +190,45 @@ published: false
 
 > The Project Gutenberg eBook of Fundacion De La Ciudad De Buenos-Aires, by D. Juan de Garay. (n.d.). Retrieved July 23, 2019, from http://www.gutenberg.org/files/18157/18157-h/18157-h.htm#DISCURSO_PRELIMINAR_A_LA_FUNDACION_DE_BUENOS_AIRES
 
-> Tieffemberg, S. (2015). ¡Aquí no hay traidor ninguno! Leales y comuneros en la Argentina de Ruy Díaz de Guzmán, 16.
-
 > Toribianos, I. e. (2017, October 30). OBISPOS PARTICIPANTES EN EL TERCER CONCILIO LIMENSE. SEMBLANZAS - Instituto de Estudios Toribianos. Retrieved July 30, 2019, from http://ietoribianos.blogspot.com/2017/10/obispos-participantes-en-el-tercer.html
 
 > Toro, J. C. (2018). El viaje femenino a América (1493-1600). In X Congreso virtual sobre Historia de las Mujeres, 2018, págs. 119-154 (pp. 119–154). Archivo Histórico Diocesano de Jaén. Retrieved from https://dialnet.unirioja.es/servlet/articulo?codigo=6859751
 
 > Turning Geographic References into Maps with Recogito: Part 1(of 2) – Traveler’s Lab. (n.d.). Retrieved January 18, 2018, from http://travelerslab.research.wesleyan.edu/2017/12/15/turning-geographic-references-into-maps-with-recogito-part-1of-2/
 
-> uba_ffyl_t_1991_871905_v1.pdf. (n.d.). Retrieved from http://repositorio.filo.uba.ar/xmlui/bitstream/handle/filodigital/1506/uba_ffyl_t_1991_871905_v1.pdf?sequence=3&isAllowed=y
-
 > Un estudio etnohistórico en los corregimientos de Tomina y Yamparaes: casos de multietnicidad - de las Mercedes Del Río - RUNA, archivo para las ciencias del hombre. (n.d.). Retrieved August 30, 2019, from http://revistascientificas.filo.uba.ar/index.php/runa/article/view/4442/3945
 
 > (N.d.-a). Retrieved from https://blogcatedranaval.com/2017/09/26/cartografia-ilustrada-de-america-del-sur/
 
 > (N.d.-b). Retrieved September 20, 2017, from http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Historia%20de%20la%20educacio%CC%81n%20popular_interactivo_0.pdf
-
+ -->
 ### Mapas
 
-> https://upload.wikimedia.org/wikipedia/commons/2/2b/Guatat%C3%A1.png
-> https://upload.wikimedia.org/wikipedia/commons/b/ba/Mapa_de_los_Indigenas_del_Paraguay.png
-> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296120~90067607:Plata-Americae-provincia?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:rio%20de%20la%20plata;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=8&trs=46
-> http://www.portalguarani.com/userfiles/images/Vicente%20Pistilli/Primera%20Asunci%C3%B3n/vicente%20pistilli%20ayolas%20llego%20al%20mismo%20lugar%20que%20garcia.jpg
-> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~286001~90058519:Paraguay,-O-Prov--de-Rio-de-la-Plat?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No
-> https://upload.wikimedia.org/wikipedia/commons/0/08/A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png
-> https://upload.wikimedia.org/wikipedia/commons/4/42/Patagonian_lang.png
-> https://gallica.bnf.fr/ark:/12148/btv1b2300008w/f122.item.zoom
-> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~295231~90066318:Le-Paraguay?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No#
-> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~305111~90075536:Sudlichster-theil-von-America-1850?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No
-> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289873~90061169:Carte-de-la-Terre-Ferme,-du-Perou,-?sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no
-> https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~303868~90074457:25--Karte-von-Sued-America--central?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296120~90067607:Plata-Americae-provincia?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&qvq=q:rio%20de%20la%20plata;sort:Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No;lc:RUMSEY~8~1&mi=8&trs=46" title="via David Rumsay">Plata Americae provincia </a> por Giovanni Antonio Magini, 1597 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
 
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~286001~90058519:Paraguay|-O-Prov--de-Rio-de-la-Plat?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No" title="via David Rumsay">Paraguay, O Prov. de Rio de la Plata. </a> Willem Janszoon Blaeu, 1630 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
 
-<!-- groups/1669951/hdcaicyt-pelagios_al_sur -->
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~295231~90066318:Le-Paraguay?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No#" title="via David Rumsay">Le Paraguay</a> por Nicolas Sanson, 1657 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
+
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~282896~90054401:Paraqvaria-Vulgo-Paragvay?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No#" title="via David Rumsay">Paraqvaria Vulgo Paragvay</a> Joan Blaeu, 1665 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
+
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~289873~90061169:Carte-de-la-Terre-Ferme,-du-Perou,-?sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no" title="via David Rumsay">
+Carte de la Terre Ferme, du Perou, du Bresil et du Pays des Amazones</a> por Jean Lattre, 1703 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
+
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~303868~90074457:25--Karte-von-Sued-America--central?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No" title="via David Rumsay">Karte von Sued-America</a> por Franz Anton Schraembl, 1786 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
+
+* <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~305111~90075536:Sudlichster-theil-von-America-1850?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No" title="via David Rumsay">
+Sudlichster theil von America</a> por Joseph Meyer, 1850 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA</a>
+
+* <a href="https://gallica.bnf.fr/ark:/12148/btv1b2300008w/f122.item.zoom" title="Source gallica.bnf.fr / BnF">Paraqvaria Vulgo Paragvay cum adjiaventibus</a> por Arnoldus Montanus, 1671 / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0">CC BY-NC-SA</a>
+
+* <a href="https://commons.wikimedia.org/wiki/File:Guatat%C3%A1.png" title="via Wikimedia Commons">Pueblos indígenas guaraníes, guaranizados y no guaraníes de la época colonial en Paraguay</a> por Isla Eguékeuk / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
+
+* <a href="https://commons.wikimedia.org/wiki/File:Mapa_de_los_Indigenas_del_Paraguay.png" title="via Wikimedia Commons">Mapa de los indígenas del Paraguay</a> por El armadillo / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
+
+* <a href="https://upload.wikimedia.org/wikipedia/commons/0/08/A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png" title="via Wikimedia Commons">Paraguariae Provinciae Soc. Jesu cum Adiacentibg. Novissima Descriptio</a> por Francisco Retz, 1732 / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
+
+* <a href="url" title="via Wikimedia Commons">Map with approximate distributions of languages in Patagonia at the time of the Spanish conquest</a> por W. Adelaar, 2004 / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
+
+<!-- <a href="url" title="via fuente">Titulo</a> por autor / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
+ -->
