@@ -12,7 +12,7 @@ published: false
 
 * Tieffenberg, S. (2012) [Argentina. Historia del Descubrimiento y Conquista del Río de la Plata de Ruy Díaz de Guzmán](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Argentina.%20Historia%20del%20Descubrimiento%20y%20Conquista%20del%20R%C3%ADo%20de%20la%20Plata%20de%20Ruy%20D%C3%ADaz%20de%20Guzm%C3%A1n_interactivo.pdf). Buenos Aires: Editorial de la Facultad de Filosofía y Letras 
 
-* Díaz de Guzmán, R. (2001) [Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/). Alicante: Biblioteca Virtual Miguel de Cervantes
+* Díaz de Guzmán, R. (2001) [Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/). Alicante: Biblioteca Virtual Miguel de Cervantes (es la edición de De Angelis, P. (ca. 1853). Colección de obras impresas y manuscritas que tratan principalmente del Río de la Plata, formada por Pedro De Angelis. Buenos Aires: s/)
 
 ### Documentos históricos
 
@@ -23,18 +23,27 @@ published: false
 
 ### Textos críticos
 
+* Comisión Oficial del IV Centenario de la Primera Fundación de Buenos Aires (1536-1936). 1941. Documentos Históricos y Geográficos Relativos a la Conquista y Colonización Rioplatense. Buenos Aires, Jacobo Peuser, 5 Tomos.
+
 * Del Río, M. D. L. M., & Presta, A. M. (1984). [Un estudio etnohistórico en los corregimientos de Tomina y Yamparaes: casos de multietnicidad](http://revistascientificas.filo.uba.ar/index.php/runa/article/view/4442/3945). RUNA, archivo para las ciencias del hombre, 14.
 
-> Domingo, P. (2014). [Naissance d’une société métisse : Aspects socio-économiques du Paraguay de la Conquête à travers les dossiers testamentaires](http://books.openedition.org/pulm/518). Montpellier: Presses universitaires de la Méditerranée.
+* Domingo, P. (2014). [Naissance d’une société métisse : Aspects socio-économiques du Paraguay de la Conquête à travers les dossiers testamentaires](http://books.openedition.org/pulm/518). Montpellier: Presses universitaires de la Méditerranée.
+
+* Fradkin, Raúl; Garavaglia, Juan Carlos, La Argentina colonial. 2009. El Río de la Plata entre los siglos XVI y XIX, Buenos Aires, Siglo Veintiuno.
 
 * Gambetta, E. O. (2013) [La leyenda aborigen en el sistema rioplatense del siglo XIX](http://www.uba.ar/aihbuenosaires2013/actas/seccion6/La%20leyenda%20aborigen%20en%20el%20sistema%20rioplatense%20del%20siglo%20XIX_ORTIZ%20GAMBETTA,%20Eugenia/La%20leyenda%20aborigen_ORTIZ%20GAMBETTA,%20Eugenia.pdf). En Hispanismos del mundo: diálogos y debates en (y desde) el sur, 337-348.
 
+* Ganson, Barbara. 2003.  The Guaraní under the Spanish Rule in the Rio de la Plata, Stanford, Stanford University Press.
+
 * Grünberg, F. and Friedl, G., 2014. [Guaraní: Persecución Y Resistencia. Pueblos Indígenas Del Centro De América Del Sur.](http://guarani.roguata.com/sites/default/files/text/file/uid110/grunberg-guarani2014.pdf) 1st ed. Quito: Ediciones Abya-Yala.
+
+* Melià, Bartomeu.1997 [1986]. El guaraní conquistado y reducido: ensayos de etnohistoria, Asunción, Universidad Católica-Centro de Estudios Paraguayos "Antonio Guasch", cuarta edición.
 
 * Tieffemberg, S. A. (2016). [¡Aquí no hay traidor ninguno!: Leales y comuneros en la Argentina de Ruy Díaz de Guzmán](https://ri.conicet.gov.ar/handle/11336/90944).
 
-> Quevedo, R., & Peñaranda, E. T. y F. de. (2005). [El baezano Gonzalo de Mendoza, fundador y gobernador de Asunción del Paraguay: ascendencia y descendencia](https://dialnet.unirioja.es/servlet/articulo?codigo=1983914). Boletín del Instituto de Estudios Giennenses, (192), 85–138.
+* Quevedo, R., & Peñaranda, E. T. y F. de. (2005). [El baezano Gonzalo de Mendoza, fundador y gobernador de Asunción del Paraguay: ascendencia y descendencia](https://dialnet.unirioja.es/servlet/articulo?codigo=1983914). Boletín del Instituto de Estudios Giennenses, (192), 85–138.
 
+* Roulet, Florencia. 2019. "De Lucía a Margarita: el cautiverio femenino en la conquista rioplatense, entre el mito y la historia", en Tieffembarg, Silvia, ed., Pensar América desde sus colonias: textos e imágenes de América colonial, Ciudad Autónoma de Buenos Aires, Biblos, pp. 81-114.
 
 <!-- > ::: ARGENTINA HISTÓRICA - la historia argentina ::: (n.d.). Retrieved July 23, 2019, from http://www.argentinahistorica.com.ar/intro_libros.php?tema=6&doc=65&cap=164
 
