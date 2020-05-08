@@ -129,7 +129,7 @@ published: false
 
 > Historia del Tribunal de la Inquisición de Lima : 1569-1820. Tomo I / José Toribio Medina; prólogo de Marcel Bataillon - Biblioteca Virtual Miguel de Cervantes. (n.d.). Retrieved July 30, 2019, from http://www.cervantesvirtual.com/obra-visor/historia-del-tribunal-de-la-inquisicion-de-lima-1569-1820-tomo-i/html/ff23c14c-82b1-11df-acc7-002185ce6064.html
 
-> Jaber, L. (n.d.). Primeras imágenes del Río de la Plata_HISTORIA CRITICA DE LA LITERATURA ARGENTINA 2014.pdf. Historia Crítica de La Literatura Argentina. Vol. 1 &quot;Una Patria Literaria&quot; Retrieved from https://www.academia.edu/37972292/Primeras_im%C3%A1genes_del_R%C3%ADo_de_la_Plata_HISTORIA_CRITICA_DE_LA_LITERATURA_ARGENTINA_2014.pdf
+* Jaber, L. (n.d.). Primeras imágenes del Río de la Plata_HISTORIA CRITICA DE LA LITERATURA ARGENTINA 2014.pdf. Historia Crítica de La Literatura Argentina. Vol. 1 &quot;Una Patria Literaria&quot; Retrieved from https://www.academia.edu/37972292/Primeras_im%C3%A1genes_del_R%C3%ADo_de_la_Plata_HISTORIA_CRITICA_DE_LA_LITERATURA_ARGENTINA_2014.pdf
 
 > Karaí Yamandú señor de las islas - Historia de Latinoamérica. (n.d.). Retrieved July 23, 2019, from http://historiadelatinoamerica.com/karai-yamandu-senor-de-las-islas/
 
@@ -195,7 +195,7 @@ published: false
 
 > Simon_et_al.pdf. (n.d.). Retrieved from http://oro.open.ac.uk/43613/1/Simon_et_al.pdf
 
-> The Project Gutenberg eBook of Del Plata Al Niágara , by Paul Groussac. (n.d.). Retrieved July 26, 2019, from https://ia802805.us.archive.org/8/items/delplataalniagar49376gut/49376-h/49376-h.htm
+* The Project Gutenberg eBook of Del Plata Al Niágara , by Paul Groussac. (n.d.). Retrieved July 26, 2019, from https://ia802805.us.archive.org/8/items/delplataalniagar49376gut/49376-h/49376-h.htm
 
 > The Project Gutenberg eBook of Fundacion De La Ciudad De Buenos-Aires, by D. Juan de Garay. (n.d.). Retrieved July 23, 2019, from http://www.gutenberg.org/files/18157/18157-h/18157-h.htm#DISCURSO_PRELIMINAR_A_LA_FUNDACION_DE_BUENOS_AIRES
 
