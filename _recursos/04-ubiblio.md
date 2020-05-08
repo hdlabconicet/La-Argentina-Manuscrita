@@ -3,7 +3,6 @@ layout: page
 title: Bibliografía
 permalink: /argentina-manuscrita-biblio/
 type: extras
-published: false
 ---
 
 <!-- <embed width="800" height="800" src="https://api.zotero.org/groups/1669951/items?format=bib&style=apa"> -->
