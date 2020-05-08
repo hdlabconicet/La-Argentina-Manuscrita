@@ -237,7 +237,7 @@ Sudlichster theil von America</a> por Joseph Meyer, 1850 / <a href="https://crea
 
 * <a href="https://upload.wikimedia.org/wikipedia/commons/0/08/A_Current_Description_of_the_Province_of_the_Society_of_Jesus_in_Paraguay_with_Neighboring_Areas_WDL2581.png" title="via Wikimedia Commons">Paraguariae Provinciae Soc. Jesu cum Adiacentibg. Novissima Descriptio</a> por Francisco Retz, 1732 / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
 
-> <a href="url" title="via Wikimedia Commons">Map with approximate distributions of languages in Patagonia at the time of the Spanish conquest</a> por W. Adelaar, 2004 / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
+> a href="url" title="via Wikimedia Commons">Map with approximate distributions of languages in Patagonia at the time of the Spanish conquest</a> por W. Adelaar, 2004 / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
 
 <!-- <a href="url" title="via fuente">Titulo</a> por autor / <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>
  -->
