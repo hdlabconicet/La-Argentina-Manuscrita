@@ -12,7 +12,7 @@ published: false
 
 * Tieffenberg, S. (2012) [Argentina. Historia del Descubrimiento y Conquista del Río de la Plata de Ruy Díaz de Guzmán](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Argentina.%20Historia%20del%20Descubrimiento%20y%20Conquista%20del%20R%C3%ADo%20de%20la%20Plata%20de%20Ruy%20D%C3%ADaz%20de%20Guzm%C3%A1n_interactivo.pdf). Buenos Aires: Editorial de la Facultad de Filosofía y Letras 
 
-* Díaz de Guzmán, R. (2001) [Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/). Alicante: Biblioteca Virtual Miguel de Cervantes (es la edición de De Angelis, P. (ca. 1853). Colección de obras impresas y manuscritas que tratan principalmente del Río de la Plata, formada por Pedro De Angelis. Buenos Aires: s/)
+* Díaz de Guzmán, R. (2001) [Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata](http://www.cervantesvirtual.com/obra-visor/historia-argentina-del-descubrimiento-poblacion-y-conquista-de-las-provincias-del-rio-de-la-plata--0/html/). Alicante: Biblioteca Virtual Miguel de Cervantes (es la edición de De Angelis, P. (ca. 1853). Colección de obras impresas y manuscritas que tratan principalmente del Río de la Plata, formada por Pedro De Angelis. Buenos Aires: s/d).
 
 ### Documentos históricos
 
