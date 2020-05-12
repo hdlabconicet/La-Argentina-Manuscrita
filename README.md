@@ -1,4 +1,4 @@
-# Textos y Mapas
+# La Argentina Manuscrita
 
 [![DOI](https://zenodo.org/badge/211551848.svg)](https://zenodo.org/badge/latestdoi/211551848)
 
