@@ -13,10 +13,6 @@ button {
  font-family: inherit;
  font-size: inherit;
  line-height: inherit;
-//  font-weight:400;
-// color:#000000;
-// background-color:#CCCCCC;
-//  box-sizing: border-box;
 }
 
 .balloon {
@@ -88,4 +84,17 @@ a:hover {
   color: $color-primary-link;
   text-decoration: none;
   border-bottom: 1px dotted;
+}
+
+
+.map-balloon{
+  color: #841212;
+  border-bottom: none;
+
+}
+
+.map-balloon:hover{
+  color: #841212;
+  border-bottom: none;
+  cursor: default;
 }
