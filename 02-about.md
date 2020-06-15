@@ -17,4 +17,10 @@ Ruy Díaz, quien sirvió como militar y agente colonial entre Buenos Aires, Asun
 
 <!-- ![trend]({{site.baseurl}}/assets/img/argentina_manuscrita/trend_LAM.png) -->
 
-La presente edición digital fue realizada a partir de la edición de Pedro de Angelis, _Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata_, escrita por Ruy Díaz de Guzmán en el año de 1612. En _Colección de obras y documentos relativos a la Historia Antigua y Moderna de las provincias del Río de La Plata. Tomo Primero_, Buenos Aires, Imprenta del Estado, 1835. Se comparte a través de la licencia Creative Commons 4.0 (CC BY 4.0): [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+La presente edición digital fue realizada a partir de la edición de Pedro de Angelis, _Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata_, escrita por Ruy Díaz de Guzmán en el año de 1612. En _Colección de obras y documentos relativos a la Historia Antigua y Moderna de las provincias del Río de La Plata. Tomo Primero_, Buenos Aires, Imprenta del Estado, 1835. Se comparte a través de la licencia [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+Citar esta edición como: 
+
+<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2019-2020). Ruy Díaz de Guzmán. Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata. HD CAICYT Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/La-Argentina-Manuscrita/</a> [Fecha de consulta]</p>
+
+Repositorio de datos: <a class="no-underline" href="https://zenodo.org/badge/latestdoi/211551848"><img src="https://zenodo.org/badge/211551848.svg" alt="DOI"/></a>
