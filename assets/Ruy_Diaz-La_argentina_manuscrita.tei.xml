@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>La Argentina manuscrita</title>
-        <author>Ruy Díaz de Guzmán</author>
+        <author>HD CAICYT LAB</author>
       </titleStmt>
       <publicationStmt>
         <p><date>2017-09-06</date></p>
@@ -14,7 +14,8 @@
         <bibl source="https://recogito.pelagios.org/document/wzqxhk0h3vpikm"/>
         <biblStruct>
           <monogr>
-            <author>HD CAICYT LAB</author>
+            <author>Ruy Díaz de Guzmán</author>
+            <editor>HD CAICYT LAB</editor>
             <title>La Argentina manuscrita</title>
             <imprint><date>1612</date></imprint>  
           </monogr>
@@ -27,7 +28,7 @@
       </langUsage>
     </profileDesc>
     <encodingDesc>
-      <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+      <projectDesc><p>Downloaded from https://recogito.pelagios.org/. Improved by HD CAICYT Lab</p></projectDesc>
     </encodingDesc>
   </teiHeader>
   <text>
