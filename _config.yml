@@ -1,7 +1,7 @@
 title: La Argentina Manuscrita
 email: hdcaicyt@gmail.com
 baseurl: "/La-Argentina-Manuscrita" # the subpath of your site, e.g. /blog
-url: "http://hdlab.space" # the base hostname & protocol for your site
+url: "https://hdlab.space" # the base hostname & protocol for your site
 github_repo: La-Argentina-Manuscrita # the GitHub repo name for your project
 twitter_username: HDCAICYT
 github_username:  hdcaicyt
