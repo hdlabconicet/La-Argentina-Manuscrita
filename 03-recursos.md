@@ -18,14 +18,6 @@ type: extras
         </svg> <a class="no-underline" title="Texto anotado en Recogito" href="https://recogito.pelagios.org/document/wzqxhk0h3vpikm/part/1/edit" target="_blank">Texto anotado en Recogito</a>
     </h2>
   <a class="h3 lh-condensed" href="https://recogito.pelagios.org/document/wzqxhk0h3vpikm/part/1/edit" target="_blank"><p>El relato de Ruy Díaz de Guzmán disponible en una plataforma de anotación colaborativa</p></a></div>
-
-<div class="py-1 mb-0 prose">
-    <h2 class="h2 lh-condensed col-9 mb-2">
-      <svg class="bi bi-bar-chart" width="0.8em" height="0.8em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path fill-rule="evenodd" d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5h-2v12h2V2zm-2-1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1h-2zM6 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm-5 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3z"/>
-    </svg> <a class="no-underline" title="Voyant" href="https://voyant-tools.org/?corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es&stopList=keywords-c14b2fba9c9cf32a12b308215a9a8966&panels=cirrus,reader,trends,summary,contexts" target="_blank">Voyant Tools</a>
-    </h2>
-  <a class="h3 lh-condensed" href="https://voyant-tools.org/?corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es&stopList=keywords-c14b2fba9c9cf32a12b308215a9a8966&panels=cirrus,reader,trends,summary,contexts" target="_blank"><p>Estadísticas textuales y visualizaciones</p></a></div>
 	
   {% for post in site.recursos %}
     {% include post_block.html %}
