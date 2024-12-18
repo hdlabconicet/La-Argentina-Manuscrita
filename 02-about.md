@@ -21,6 +21,6 @@ La presente edición digital fue realizada a partir de la edición de Pedro de A
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2019-2020). Ruy Díaz de Guzmán. Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata. HD CAICYT Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/La-Argentina-Manuscrita/</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2019-2020). Ruy Díaz de Guzmán. Historia Argentina del descubrimiento, población y conquista de las provincias del Río de la Plata. HD Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/La-Argentina-Manuscrita/</a> ó <a href="{{ site.baseurl }}/">https://n2t.net/ark:/69774/rgm2020</a>[Fecha de consulta]</p>
 
 Repositorio de datos: <a class="no-underline" href="https://zenodo.org/badge/latestdoi/211551848"><img src="https://zenodo.org/badge/211551848.svg" alt="DOI"/></a>
