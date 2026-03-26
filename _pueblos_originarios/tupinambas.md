@@ -2,10 +2,10 @@
 nombre: Tupinambás
 fechas: Tupinambáes, Tupís, Tupiés
 posicion: 
-img: https://upload.wikimedia.org/wikipedia/commons/a/af/Fam%C3%ADlia_tupinamb%C3%A1_ARQUIVO_FMP.jpg
+img: https://upload.wikimedia.org/wikipedia/commons/d/d7/Familia_Tupinamba.jpg
 lnk: tupinambas
 fuente: Família tupinambá, Assessoria de Imprensa Prefeitura de Mangaratiba
-fuente_url: https://commons.wikimedia.org/wiki/File:Fam%C3%ADlia_tupinamb%C3%A1_ARQUIVO_FMP.jpg
+fuente_url: https://commons.wikimedia.org/wiki/File:Familia_Tupinamba.jpg
 detalle: ...la lengua de los Carios, que son los Guaranís, como de los Tupis y Tamoyos...
 pagina: pg_0021
 ---
