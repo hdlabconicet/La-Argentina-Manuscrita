@@ -2,7 +2,7 @@
 nombre: Tupinambás
 fechas: Tupinambáes, Tupís, Tupiés
 posicion: 
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Familia_Tupinamba.jpg/250px-Familia_Tupinamba.jpg
+img: ../assets/img/Familia_Tupinamba.jpg
 lnk: tupinambas
 fuente: Família tupinambá, Assessoria de Imprensa Prefeitura de Mangaratiba
 fuente_url: https://commons.wikimedia.org/wiki/File:Familia_Tupinamba.jpg
