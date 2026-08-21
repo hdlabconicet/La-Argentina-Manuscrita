@@ -13,9 +13,9 @@ Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice 
 
 ## Nube de palabras
 
-Palabras más frecuentes del texto de Ruy Díaz de guzmán. Deslice el cursor sobre las palabras para ver la frecuencia en el texto.
+Palabras más frecuentes del texto de Ruy Díaz de Guzmán. Deslice el cursor sobre las palabras para ver la frecuencia en el texto.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?palette=extjs&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&whiteList=&visible=155&fontFamily=LatoWeb&corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Cirrus/?stopList=keywords-aee95251ec7b74766c68cc90532d0620&corpus=a05ace93597cf15e68d74ea75c67677d'></iframe>
 
 Deslice la barra de términos para aumentar o disminuir la cantidad de palabras en la nube.
 
@@ -23,20 +23,20 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src="https://voyant-tools.org/tool/Contexts/?palette=extjs&lang=es&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&query=tierra&corpus=72efd5fc5fc1324aaa5db3426db994c6"></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Links/?stopList=keywords-aee95251ec7b74766c68cc90532d0620&query=indios&query=r%C3%ADo&query=tierra&corpus=a05ace93597cf15e68d74ea75c67677d'></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
 ## Tendencias
 
-Evolución de la frecuencia de los principales términos de _Argentina y conquista del Río de la Plata_.
+Evolución de la frecuencia de los principales términos de _La Argentina Manuscrita_.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?palette=extjs&lang=es&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&query=gente&query=tierra&mode=document&corpus=72efd5fc5fc1324aaa5db3426db994c6'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Trends/?stopList=keywords-aee95251ec7b74766c68cc90532d0620&query=indios&query=r%C3%ADo&query=tierra&query=capit%C3%A1n&query=gente&mode=document&corpus=a05ace93597cf15e68d74ea75c67677d'></iframe>
 
 ## Grafo de colocaciones
 
 Deslice el cursor sobre las palabras de este grafo de colocaciones para consultar la frecuencia de cada par de términos.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?palette=extjs&lang=es&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&query=gente&query=tierra&query=Argentina&mode=corpus&corpus=72efd5fc5fc1324aaa5db3426db994c6'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/CollocatesGraph/?view=trends&stopList=keywords-b0e30ff37d5ab480818b02985f1a0a3d&query=indios&query=r%C3%ADo&query=tierra&query=capit%C3%A1n&query=gente&query=todos&query=provincia&query=parte&query=don&query=ciudad&corpus=a05ace93597cf15e68d74ea75c67677d'></iframe>
 
-<div class="py-4 mt-4"><p>Visite <a href="https://voyant-tools.org/?corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es&palette=extjs&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&panels=streamgraph,reader,corpuscollocates,summary,bubblelines" target="_blank">este link</a> para descubrir <i>Argentina y conquista del Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://voyant-tools.org/?corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es&palette=extjs&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&view=Bubbles" target="_blank">burbujas de términos</a>, <a href="https://voyant-tools.org/?corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es&palette=extjs&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&view=Veliza" target="_blank">Veliza</a>, <a href="https://voyant-tools.org/?corpus=72efd5fc5fc1324aaa5db3426db994c6&lang=es&palette=extjs&stopList=keywords-991a2fa4968a5da6fcdd7eb1fc26afbc&view=TextualArc" target="_blank">arco textual</a> y muchas más.</p></div>
+<div class="py-4 mt-4"><p>Visite <a href="'https://service.sadilar.org/voyant/?panels=streamgraph%2Creader%2Ccorpuscollocates%2Csummary%2Cbubblelines&corpus=a05ace93597cf15e68d74ea75c67677d" target="_blank">este link</a> para descubrir <i>La Argentina Manuscrita</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://service.sadilar.org/voyant/tool/Bubbles/?stopList=keywords-aee95251ec7b74766c68cc90532d0620&corpus=a05ace93597cf15e68d74ea75c67677d" target="_blank">burbujas de términos</a>, <a href="https://service.sadilar.org/voyant/tool/Veliza/?view=Veliza&corpus=a05ace93597cf15e68d74ea75c67677d" target="_blank">Veliza</a>, <a href="https://service.sadilar.org/voyant/tool/TextualArc/?stopList=keywords-aee95251ec7b74766c68cc90532d0620&corpus=a05ace93597cf15e68d74ea75c67677d" target="_blank">arco textual</a> y muchas más.</p></div>
