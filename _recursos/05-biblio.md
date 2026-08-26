@@ -31,15 +31,15 @@ icon: book
 
 * Fradkin, Raúl; Garavaglia, Juan Carlos, La Argentina colonial. 2009. El Río de la Plata entre los siglos XVI y XIX, Buenos Aires, Siglo Veintiuno.
 
-* Gambetta, E. O. (2013) [La leyenda aborigen en el sistema rioplatense del siglo XIX](http://www.uba.ar/aihbuenosaires2013/actas/seccion6/La%20leyenda%20aborigen%20en%20el%20sistema%20rioplatense%20del%20siglo%20XIX_ORTIZ%20GAMBETTA,%20Eugenia/La%20leyenda%20aborigen_ORTIZ%20GAMBETTA,%20Eugenia.pdf). En Hispanismos del mundo: diálogos y debates en (y desde) el sur, 337-348.
+* Gambetta, E. O. (2013) [La leyenda aborigen en el sistema rioplatense del siglo XIX](cvc.cervantes.es/Literatura/aih/pdf/18/aih_18_2_02_05_35.pdf). En Hispanismos del mundo: diálogos y debates en (y desde) el sur, 337-348.
 
 * Ganson, Barbara. 2003.  The Guaraní under the Spanish Rule in the Rio de la Plata, Stanford, Stanford University Press.
 
-* Grünberg, F. and Friedl, G., 2014. [Guaraní: Persecución Y Resistencia. Pueblos Indígenas Del Centro De América Del Sur.](http://guarani.roguata.com/sites/default/files/text/file/uid110/grunberg-guarani2014.pdf) 1st ed. Quito: Ediciones Abya-Yala.
+* Grünberg, F. and Friedl, G., 2014. Guaraní: Persecución Y Resistencia. Pueblos Indígenas Del Centro De América Del Sur. 1st ed. Quito: Ediciones Abya-Yala.
 
 * Melià, Bartomeu.1997 [1986]. El guaraní conquistado y reducido: ensayos de etnohistoria, Asunción, Universidad Católica-Centro de Estudios Paraguayos "Antonio Guasch", cuarta edición.
 
-* Tieffemberg, S. A. (2016). [¡Aquí no hay traidor ninguno!: Leales y comuneros en la Argentina de Ruy Díaz de Guzmán](https://ri.conicet.gov.ar/handle/11336/90944).
+* Tieffemberg, S. A. (2016). [¡Aquí no hay traidor ninguno!: Leales y comuneros en la Argentina de Ruy Díaz de Guzmán](https://ri.conicet.gov.ar/bitstream/handle/11336/52425/Tieffemberg%20B.pdf?sequence=5&isAllowed=y).
 
 * Quevedo, R., & Peñaranda, E. T. y F. de. (2005). [El baezano Gonzalo de Mendoza, fundador y gobernador de Asunción del Paraguay: ascendencia y descendencia](https://dialnet.unirioja.es/servlet/articulo?codigo=1983914). Boletín del Instituto de Estudios Giennenses, (192), 85–138.
 
